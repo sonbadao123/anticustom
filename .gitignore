@@ -1,0 +1,13 @@
+# Runtime logs & OS-specific generated launchers
+daemon.log
+daemon.pid
+silent-start.vbs
+launch_antigravity_theme.vbs
+theme_config.backup.*.json
+
+# OS / Python / Node junk
+__pycache__/
+*.pyc
+node_modules/
+.DS_Store
+Thumbs.db
